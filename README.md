@@ -10,10 +10,10 @@ Meda Cherono BSCCS/2025/58376
 Laetetia Mumbe BSCCS/2025/41891
 Project Title
 
-#Data Structure Classification and Applications#
+Data Structure Classification and Applications
 
 
-##Description##
+Description
 
 This project demonstrates the classification of data structures and their implementation using the C programming language.
 
